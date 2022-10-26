@@ -2,6 +2,8 @@
 
 Olá me chamo <strong>Carlos Emannoel!<strong/> :brazil:
 
+Cursando Sistemas de Informação pelo Institudo Federal do Ceará
+
 
 <h3>Minhas Habilidades</h3>
 <p align="center">
