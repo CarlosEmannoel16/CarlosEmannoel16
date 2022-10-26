@@ -1,7 +1,23 @@
 
 
+Olá me chamo <strong>Carlos Emannoel!<strong/> :brazil:
+
+
+<h3>Minhas Habilidades</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap" />
+  </a>
+</p>
+
+
+
 <!--
 **CarlosEmannoel16/CarlosEmannoel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 
 Here are some ideas to get you started:
 
