@@ -2,7 +2,7 @@
 
 :wave: Olá me chamo <strong>Carlos Emannoel!<strong/> :brazil:
 <hr> 
-Cursando Sistemas de Informação pelo Institudo Federal do Ceará
+Cursando Sistemas de Informação pelo Instituto Federal do Ceará
 
 
 <h3>Minhas Habilidades</h3>
