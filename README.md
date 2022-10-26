@@ -1,14 +1,14 @@
 
 
-Olá me chamo <strong>Carlos Emannoel!<strong/> :brazil:
-
+:wave: Olá me chamo <strong>Carlos Emannoel!<strong/> :brazil:
+<hr> 
 Cursando Sistemas de Informação pelo Institudo Federal do Ceará
 
 
 <h3>Minhas Habilidades</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap,linux,mongodb" />
   </a>
 </p>
 
