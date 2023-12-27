@@ -1,9 +1,7 @@
 
 
-<h2>:wave: Olá me chamo <strong>Carlos Emannoel!<strong/> :brazil:</h2>
+<h2>:wave: Olá me chamo <strong>Emannoel!<strong/> :brazil:</h2>
 <hr> 
-Cursando Sistemas de Informação pelo Instituto Federal do Ceará
-
 
 <h3>Minhas Habilidades</h3>
 <p align="center">
