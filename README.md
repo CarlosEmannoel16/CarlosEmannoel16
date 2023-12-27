@@ -1,7 +1,6 @@
 
 
 <h2>:wave: Olá me chamo <strong>Emannoel!<strong/> :brazil:</h2>
-<hr> 
 
 <h3>Minhas Habilidades</h3>
 <p align="center">
