@@ -5,7 +5,7 @@
 <h3>Minhas Habilidades</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap,linux,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap,linux,mongodb,redis" />
   </a>
 </p>
 
