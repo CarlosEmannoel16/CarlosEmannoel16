@@ -4,9 +4,11 @@
 
 <h4>Um pouco do que ja utilizei</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap,linux,mongodb,redis,kafka" />
+  <img  width="200rem" src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap,linux,mongodb,redis,kafka" />
 </a>
-
+  <div align="center">
+         <img height="300em" alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEmannoel16&theme=monokai">
+    </div>
   <div align="center">
      <a href="https://github.com/CarlosEmannoel16">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEmannoel16&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&locale=pt-br"/>
@@ -15,9 +17,7 @@
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEmannoel16&layout=compact&langs_count=7&theme=monokai"/>
       </a>
     </div>
-     <div align="center">
-         <img height="300em" alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEmannoel16&theme=monokai">
-    </div>
+   
    </div>
   <br />
 
