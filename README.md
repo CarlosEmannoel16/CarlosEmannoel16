@@ -4,7 +4,7 @@
 
 <h4>Um pouco do que ja utilizei</h4>
 <a href="https://skillicons.dev">
-  <img  width="80%" src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap,linux,mongodb,redis,kafka" />
+  <img  width="80%" margin="auto" src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap,linux,mongodb,redis,kafka" />
 </a>
   <div align="center">
          <img height="80%" alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEmannoel16&theme=monokai">
