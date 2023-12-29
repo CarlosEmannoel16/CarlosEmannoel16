@@ -10,7 +10,7 @@
   <div align="center">
      <p align="center" width="100%">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-       <img src="https://github-profile-trophy.vercel.app/?username=CarlosEmannoel16&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC&margin-w=15&no-bg=true&no-frame=true&column=4&lang=pt-br" alt="CarlosEmannoel16" />
+       <img src="https://github-profile-trophy.vercel.app/?username=CarlosEmannoel16&theme=dark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC&margin-w=15&no-bg=true&no-frame=true&column=4&lang=pt-br" alt="CarlosEmannoel16" />
     </a> 
   </p>
      <a href="https://github.com/CarlosEmannoel16">
