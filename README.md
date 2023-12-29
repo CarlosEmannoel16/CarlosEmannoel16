@@ -15,11 +15,6 @@
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEmannoel16&layout=compact&langs_count=7&theme=monokai"/>
       </a>
     </div>
-    <div align="center">
-        <a href="https://github.com/CarlosEmannoel16">
-          <img height="180em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosEmannoel16&theme=monokai">
-        </a>
-    </div>
      <div align="center">
          <img height="300em" alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEmannoel16&theme=monokai">
     </div>
