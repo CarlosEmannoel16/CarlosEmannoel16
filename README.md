@@ -7,7 +7,7 @@
   <img  width="200rem" src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap,linux,mongodb,redis,kafka" />
 </a>
   <div align="center">
-         <img height="300em" alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEmannoel16&theme=monokai">
+         <img height="80%" alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEmannoel16&theme=monokai">
     </div>
   <div align="center">
      <a href="https://github.com/CarlosEmannoel16">
