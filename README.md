@@ -1,6 +1,6 @@
 
 
-<h2>:wave: Olá me chamo <strong>Emannoel!<strong/> :brazil:</h2>
+<h2>:wave: Olá me chamo <strong>Carlos!<strong/> :brazil:</h2>
 
   <div align="center">
          <img height="80%" alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEmannoel16&theme=highcontrast">
@@ -21,6 +21,7 @@
 <a href="https://skillicons.dev">
   <img  width="100%" src="https://skillicons.dev/icons?i=git,html,docker,js,nodejs,postgres,mysql,css,figma,gitlab,react,ts,jest,bootstrap,linux,mongodb,redis,kafka" />
 </a>
+My favourites tools:  TypeScript,  React Js & React Native,  Node Js
 
 
 
