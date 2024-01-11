@@ -1,7 +1,8 @@
 
 
-<h4>:wave: Hi, I'm <strong>Carlos!<strong/>, and I'm a web developer </h4>
+<h4>:wave: Hi, I'm <strong>Carlos!<strong/>, and I'm a web developer 🚀  </h4>
 <br />
+:technologist: my favorite technologies are TypeScript, Node Js, React Js and React Native ⚡
 <!--
 **CarlosEmannoel16/CarlosEmannoel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
