@@ -1,5 +1,5 @@
 
-
+<img src="https://media.licdn.com/dms/image/D4D16AQFpmJ3W42jhUQ/profile-displaybackgroundimage-shrink_350_1400/0/1707534571309?e=1712793600&v=beta&t=lZ_OkHoiRouapfB81t76jlC5QlCUcOCs0cpErWJBnBk"/>
 <h4>:wave: Hi, I'm <strong>Carlos!<strong/>, and I'm a web developer 🚀  </h4>
 <br />
 :technologist: my favorite technologies are TypeScript, Node Js, React Js and React Native ⚡
