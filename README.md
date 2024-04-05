@@ -4,7 +4,8 @@
 <br />
 :technologist: my favorite technologies are TypeScript, Node Js, React Js and React Native ⚡
 
-<br/>
+<br />
+<br />
 
 ...currently studying java
 
