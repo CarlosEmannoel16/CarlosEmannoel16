@@ -15,6 +15,7 @@ https://emannoel.dev.br
 **CarlosEmannoel16/CarlosEmannoel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEmannoel16&layout=compact&langs_count=8&style=for-the-badge&title_color=F28157&text_color=F2F2F2&bg_color=150E1F&border_color=2B1D40&show_icons=true&icon_color=F2F2F2
 
 
 
