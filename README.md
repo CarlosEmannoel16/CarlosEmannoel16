@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/D4D16AQFKzsBZGxZOmw/profile-displaybackgroundimage-shrink_350_1400/0/1707535881187?e=1712793600&v=beta&t=BpJTgodZLyhx0xDVMzxE0_3MHfGRjR4ecButSIqtPEc"/>
+<img src="https://media.licdn.com/dms/image/D4D16AQFKzsBZGxZOmw/profile-displaybackgroundimage-shrink_350_1400/0/1707535881187?e=1724284800&v=beta&t=Gb5tvUif_3Fdnm1FMUqQ_vp4gx7H5_VIOcKJDH-E40g"/>
 <h4>:wave: Hi, I'm <strong>Carlos!<strong/>, and I'm a web developer 🚀💻🇧🇷  </h4>
 <br />
 :technologist: my favorite technologies are TypeScript, Node Js, React Js and React Native ⚡
