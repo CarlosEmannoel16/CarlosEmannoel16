@@ -39,5 +39,13 @@ Estou sempre buscando evoluir e aprender novas tecnologias. No momento, meu foco
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEmannoel16&layout=compact&langs_count=8&style=for-the-badge&title_color=F28157&text_color=F2F2F2&bg_color=150E1F&border_color=2B1D40&show_icons=true&icon_color=F2F2F2" alt="Estatísticas de Linguagens Mais Usadas no GitHub"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEmannoel16&show_icons=true&include_all_commits=true&count_private=true&title_color=F28157&text_color=F2F2F2&bg_color=150E1F&border_color=2B1D40&icon_color=F28157&hide_border=true" alt="Estatísticas do GitHub de Carlos"/>
+  
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEmannoel16&layout=compact&title_color=F28157&text_color=F2F2F2&bg_color=150E1F&border_color=2B1D40&icon_color=F28157&hide_border=true" alt="Top Linguagens de Carlos"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEmannoel16&theme=react-dark&bg_color=150E1F&color=F2F2F2&line=F28157&point=2B1D40&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub"/>
 </p>
