@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFKzsBZGxZOmw/profile-displaybackgroundimage-shrink_350_1400/0/1707535881187?e=1724284800&v=beta&t=Gb5tvUif_3Fdnm1FMUqQ_vp4gx7H5_VIOcKJDH-E40g" alt="Banner do Perfil"/>
+  <img src="./1707535881187.jpeg" alt="Banner do Perfil"/>
 </p>
 
 <h1 align="center">:wave: Olá, eu sou o Carlos!</h1>
